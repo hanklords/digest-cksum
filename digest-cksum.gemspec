@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.name = "digest-cksum"
   s.summary = "Unix cksum implementation"
-  s.author = "Maël Clérambault"
+  s.author = "MaÃ«l ClÃ©rambault"
   s.email = "mael@clerambault.fr"
   s.homepage = "http://github.com/hanklords/digest-cksum"
   s.files = %w(lib/digest/cksum.rb)
