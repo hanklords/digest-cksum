@@ -7,7 +7,7 @@ Usage
 -----
 
 ```ruby
-    require 'digest/cksum'
+require 'digest/cksum'
 
-    puts Digest::CKSum.file("/path/to/file").checksum!
+puts Digest::CKSum.file("/path/to/file").checksum!
 ```
